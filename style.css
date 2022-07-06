@@ -64,7 +64,7 @@ h2 {
     color: #707070;
     font-size: 30px;
     background-color: #FAFAFA;
-    margin: 30px;
+    margin: 10px;
     padding: 40px;
     font-weight: 700;
     width: 20%;
@@ -76,7 +76,7 @@ h2 {
 
 #bg-color {
     background-color: #ff59592a;
-    border: 3px solid #FF5959;
+    border: 2px solid #FF5959;
 }
 
 input {
@@ -141,4 +141,32 @@ h3 {
 
 #second-card-bg {
     background-color: rgb(255, 248, 237);
+}
+
+#Your {
+    text-align: left;
+    color: black;
+
+}
+
+#third-paragraph {
+    color: #707070;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.Your-Donation {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 100px;
+}
+
+.your-donation-text {
+    width: 50%;
+}
+
+.two {
+    padding: 10%;
+
 }
