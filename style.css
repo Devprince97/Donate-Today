@@ -40,3 +40,59 @@ p {
     color: white;
     border-radius: 5px;
 }
+
+h2 {
+    text-align: center;
+    font-size: 45px;
+    color: black;
+    padding-top: 2%;
+    margin: 0;
+}
+
+#paragraph {
+    color: gray;
+    font-size: 18px;
+    text-align: center;
+}
+
+.amount {
+    display: flex;
+    justify-content: center;
+}
+
+.doller-text {
+    color: #707070;
+    font-size: 30px;
+    background-color: #FAFAFA;
+    margin: 30px;
+    padding: 40px;
+    font-weight: 700;
+    width: 20%;
+    justify-content: center;
+    display: flex;
+    border-radius: 5px;
+
+}
+
+#bg-color {
+    background-color: #ff59592a;
+    border: 3px solid #FF5959;
+}
+
+input {
+    display: block;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #B3B3B3;
+    text-align: center;
+    width: 50%;
+    padding-bottom: 20px;
+}
+
+#secoud-button {
+    margin-left: 46%;
+
+}
