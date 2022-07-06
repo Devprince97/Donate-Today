@@ -170,3 +170,22 @@ h3 {
     padding: 10%;
 
 }
+
+#foot {
+    color: #FAFAFA;
+    text-align: center;
+    padding-bottom: 2%;
+
+}
+
+footer h5 {
+    text-align: center;
+    color: #FAFAFA;
+    background-size: contain;
+    font-size: 30px;
+    padding-top: 2%;
+}
+
+footer {
+    background-color: #000000;
+}
